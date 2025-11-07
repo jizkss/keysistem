@@ -2640,3 +2640,4 @@ end
 AntiCrash.Initialize()
 
 return AntiCrash
+end
